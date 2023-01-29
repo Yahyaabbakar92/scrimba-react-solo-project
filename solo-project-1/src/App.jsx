@@ -1,7 +1,9 @@
+import Info from "./components/Info";
+
 function App() {
   return (
-    <div className="App">
-      <h1>It's working</h1>
+    <div className="container">
+      <Info />
     </div>
   );
 }
